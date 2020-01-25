@@ -4,7 +4,6 @@
 
 %define	pdir	Class
 %define	pnam	DBI-Plugin
-%include	/usr/lib/rpm/macros.perl
 Summary:	Class::DBI::Plugin - Abstract base class for Class::DBI plugins
 Name:		perl-Class-DBI-Plugin
 Version:	0.03
